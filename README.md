@@ -1,2 +1,2 @@
-# A star shortest path finding algorithm
+# My Projects
 My project repository
